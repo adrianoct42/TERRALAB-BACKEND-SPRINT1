@@ -72,9 +72,11 @@ Main seria a branch principal, onde temos o código funcional em alguma proporç
 
 ### 1 - A essa altura, você já deve ter criado a sua conta do GitLab, não é? Crie um repositório público na sua conta, que vai se chamar Atividade Prática e por fim sincronize esse repositório em sua máquina local.
 
+Feito! :)
+
 ### 2 - Dentro do seu reposotorio, crie um arquivo chamado README.md e leia o artigo como fazer um readme.md bonitão e deixe esse README.md abaixo bem bonitão: README.md onde o trainne irá continuamente responder as perguntas em formas de commit. 
 
-Inserção de código, exemplo de commit de feature. 
+Feito! :)
 
 ### 3 - Crie nesse repositório um arquivo que vai se chamar calculadora.js, abra esse arquivo em seu editor de códigos favoritos e adicione o seguinte código:
 
@@ -187,4 +189,7 @@ Ele faz a operação de acordo com o sinal digitado entre os números.
 Foi usado eval. A função eval converte uma string em código javascript. Ou seja, ela convereterá a expressão matemática que foi passada através do args para código.
 
 ### COMENTÁRIOS DO USUÁRIO:
-Eu depois acabei percebendo que cometi o mesmo erro de João e desenvolvi o código através da branch main, em vez de criar a minha própria como foi feito em um dos exercícios. Beginner's mistake. 🤡
+1- Eu depois acabei percebendo que cometi o mesmo erro de João e desenvolvi o código através da branch main, em vez de criar a minha própria como foi feito em um dos exercícios. Beginner's mistake. 🤡
+2- Algumas vezes fiz o commit com a tag FEATURE, quando na verdade me confundi, e o correto seria usar REFACTOR.
+Vou deixar esse link aqui inclusive para futuras consultas, por ser muito bom no geral pra tirar dúvidas disso!
+Link: https://blog.cubos.io/que-tal-comecar-a-usar-commits-semanticos/ e https://www.conventionalcommits.org/pt-br/v1.0.0/
